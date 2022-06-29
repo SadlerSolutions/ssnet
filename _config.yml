@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Twitter, icon: twitter, url: "https://twitter.com"}
   - {title: facebook, icon: facebook, url: "https://facebook.com"}
   - {title: Pinterest, icon: pinterest, url: "https://pintrest.com"}
+  - {title: Amazon, icon: amazon, url: "https://amazon.com"}
 # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
