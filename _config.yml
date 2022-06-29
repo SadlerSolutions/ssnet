@@ -26,10 +26,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:info@deansadler.com"}
 #  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-#  - {title: Twitter, icon: twitter, url: "https://twitter.com"}
-#  - {title: facebook, icon: facebook, url: "https://facebook.com"}
-#  - {title: Pinterest, icon: pinterest, url: "https://pintrest.com"}
-#  - {title: Amazon, icon: amazon, url: "https://amazon.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com"}
+  - {title: facebook, icon: facebook, url: "https://facebook.com"}
+  - {title: Pinterest, icon: pinterest, url: "https://pintrest.com"}
+  - {title: Amazon, icon: amazon, url: "https://amazon.com"}
 # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
